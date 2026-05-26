@@ -1,4 +1,5 @@
 {
+    "base_url": "https://mvking.vip",
     "target_class": "video-card",
     "title_selector": ".video-title a",
     "wait_time": 5
