@@ -1,5 +1,5 @@
 {
     "target_class": "video-card",
-    "title_selector": ".video-title a",
+    "title_selector": ".video-title text-truncate a",
     "wait_time": 5
 }
