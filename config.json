@@ -1,11 +1,10 @@
-     { base_url = "https://mvking.vip/"
-       target_class = "video-card"
-       title_selector = ".video-title a"
-       wait_time = 5
-
-        targets = 
-        "movie": "/video/영화/한국/시간순",
-        "drama": "/video/드라마/한국/시간순",
-        "variety": "/video/예능/한국/시간순"  
-        }
+    { 
+       "base_url" = "https://mvking.vip/",
+       "target_class" = "video-card",
+       "title_selector" = ".video-title a",
+       "wait_time": 5,
+       "movie": "/video/영화/한국/시간순",
+       "drama": "/video/드라마/한국/시간순",
+       "variety": "/video/예능/한국/시간순"  
+    }
         
