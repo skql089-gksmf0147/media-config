@@ -1,5 +1,5 @@
 {
-    "base_url": "https://mvking.mov/",
+    "base_url": "https://mvking7.org/",
     "target_class": "video-card",
     "title_selector": ".video-title a",
     "wait_time": 5
