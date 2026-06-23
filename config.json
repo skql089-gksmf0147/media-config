@@ -1,5 +1,6 @@
 {
-    "base_url": "https://mvking7.org/",
+    "base_url": "https://mvking7.org",
+    "shortcut_url": "https://mvking8.org"
     "target_class": "video-card",
     "title_selector": ".video-title a",
     "wait_time": 5
